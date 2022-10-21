@@ -1,0 +1,49 @@
+.Navbar {
+	/*position: -webkit-sticky;
+	position: sticky;*/
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	background-color: #191C1A;
+	z-index: 500;
+}
+
+.Navbar ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #303130;
+}
+
+.Navbar li {
+	float: left;
+	border-right: 1px solid #555;
+}
+
+.Navbar li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 10px 12px;
+	text-decoration: none;
+}
+
+@media (max-width: 400px) {
+	.Navbar li a {
+		padding: 10px 6px;
+	}
+}
+
+/* Change the link color to #111 (black) on hover */
+@media (pointer: fine) {
+	.Navbar li a:hover {
+		background-color: #202220;
+		color: lightgray;
+	}
+}
+
+.active {
+	background-color: #123488;
+}
