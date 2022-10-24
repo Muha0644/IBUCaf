@@ -22,8 +22,8 @@ function Navbar(){
 				<li className={router.pathname == "/about" ? styles.active : ""}>
 					<Link href="/about">About</Link>
 				</li>
-				<li className={router.pathname == "/login" ? styles.active : ""} style={{float: "right"}}>
-					<Link href="/login">Login</Link>
+				<li className={router.pathname == "/cart" ? styles.active : ""} style={{float: "right"}}>
+					<Link href="/cart">My Cart</Link>
 				</li>
 			</ul>
   		</nav>
