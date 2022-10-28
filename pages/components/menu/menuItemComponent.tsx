@@ -1,6 +1,7 @@
 import styles from '/styles/menuItemComponent.module.css'
 
 interface menuItemProps{
+	id?:Number,
 	title?:String,
 	desc?:String,
 	price?:Number,
