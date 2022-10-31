@@ -1,27 +1,27 @@
-import { NextPage } from 'next/types';
 import styles from '/styles/menu.module.css';
 import MenuItemComponent from './components/menu/menuItemComponent';
+import menu from '../public/menu.json' assert {type: 'json'}
 
-const menuComponent: NextPage = () =>{
 
-	  
+interface menu {
+	menuArr: Array<Object>
+}
+
+function menuComponent(props: menu){
+	let uc = 0
+
 	return (
 		<div className={styles.menuContainer}>
-			<MenuItemComponent title="Burek" price={10} />
-			<MenuItemComponent title="Čevapi" price={0.00}/>
-			<MenuItemComponent title="Palačinka" price={8}/>
-			<MenuItemComponent />
-			<MenuItemComponent />
-			<MenuItemComponent />
-			<MenuItemComponent />
-			<MenuItemComponent />
-			<MenuItemComponent />
-			<MenuItemComponent />
-			<MenuItemComponent />
-			<MenuItemComponent />
+			{props.menuArr.map((each:any) => {
+				return <MenuItemComponent id={each.id} key={uc++}
+				title={each.name} price={each.price} desc={each.desc}/>
+			})}
 		</div>
 	)
 }
 
+export async function getStaticProps() {
+	return { props: { menuArr: menu.menu } };
+}
 
 export default menuComponent;

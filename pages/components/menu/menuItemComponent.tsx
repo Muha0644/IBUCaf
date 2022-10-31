@@ -1,23 +1,32 @@
 import styles from '/styles/menuItemComponent.module.css'
 
-interface menuItemProps{
-	id?:Number,
-	title?:String,
-	desc?:String,
-	price?:Number,
-	img?:String
+interface menuItemProps {
+	id: Number,
+	title?: String,
+	desc?: String,
+	price?: Number,
+	img?: String
 }
 
-function MenuItemComponent(props:menuItemProps){
+function addToCart(id: Number){
+	let cart: Array<Number> = JSON.parse(sessionStorage.getItem("Cart")!)
+	if (cart == null) {
+		cart = []
+	}
+	cart.push(id)
+	sessionStorage.setItem("Cart", JSON.stringify(cart))
+}
+
+function MenuItemComponent(props: menuItemProps) {
 	const title = props.title ? props.title : "Food Name"
-	const desc = props.desc ? props.desc : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus at illo quam sed"
+	const desc = props.desc ? props.desc : ""
 	const price = props.price ? props.price : 1.5
 
 	return (
 		<div className={styles.item + " card"}>
-			<h2>{title}</h2>
+			<h3>{title}</h3>
 			<p>{desc}</p>
-			<button>{price.toFixed(2) + " KM"}</button>
+			<button onClick={() => addToCart(props.id)}>{price.toFixed(2) + " KM"}</button>
 		</div>
 	)
 }
