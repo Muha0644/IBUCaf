@@ -15,6 +15,7 @@
 }
 .itemText {
 	padding: 0.7em;
+	justify-self: left;
 }
 .itemText p{
 	font-size: 0.75em;
@@ -29,7 +30,4 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-}
-.itemContainer h3{
-	
 }

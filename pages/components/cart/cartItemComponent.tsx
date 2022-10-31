@@ -33,7 +33,7 @@ export default function CartItemComponent(props:cartItemInterface){
 
 
 	return (<div className={styles.itemContainer}>
-		<Image src="/vercel.svg" alt="bruh" width={50} height={50} />
+		<Image src="/vercel.svg" alt="bruh" width={50} height={50}  />
 		<div className={styles.itemText}>
 			<h3>{name}</h3>
 			<p>{desc}</p>
