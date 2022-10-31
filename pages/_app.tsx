@@ -1,4 +1,6 @@
 import '../styles/globals.css'
+import { GoogleOAuthProvider } from '@react-oauth/google';
+import creds from '../client_secret_119134146400-90o683j9a34j40kc5lcesusksje3hf6g.apps.googleusercontent.com.json' assert {type: 'json'}
 import Head from 'next/head'
 import Navbar from './components/global/Navbar'
 import type { AppProps } from 'next/app'
@@ -9,7 +11,7 @@ function MyApp({ Component, pageProps }: AppProps) {
 	const pageDescription = `You should use our app NOW!  
   `
 
-	return <>
+	return <GoogleOAuthProvider clientId={creds.m$b.client_id}>
 		<Head>
 			<title>IBU Cafeteria</title>
 			<meta name="description" content={pageDescription} />
@@ -31,7 +33,7 @@ function MyApp({ Component, pageProps }: AppProps) {
 				</span>
 			</a>
 		</footer>
-	</>
+	</GoogleOAuthProvider>
 }
 
 export default MyApp
