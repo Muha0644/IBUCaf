@@ -1,19 +1,32 @@
 import styles from '/styles/cart.module.css';
 import CartItemComponent from './components/cart/cartItemComponent';
-import { useState } from 'react';
+import { useEffect, useReducer, useState } from 'react';
 
-export default function Cart(){
-	const [total, setTotal] = useState(0)
-	function totalChange(amount:number){
-		setTotal(total+amount);
-	}
+function getCart() {
+	let cart = sessionStorage.getItem("Cart")
+	if (cart == null) return [];
+	return JSON.parse(cart)
+}
 
-	return(<>
+export default function Cart() {
+	const [total, dispatch] = useReducer((state: number, change: number) => {
+		return state + change;
+	}, 0);
+
+	const [list, setList] = useState()
+	useEffect(() => {
+		let uselessCounter = 0;
+		setList(
+			getCart().map((id: any) => {
+				if (id == null) { return }
+				return <CartItemComponent changeTotal={dispatch} id={id} key={uselessCounter++} />
+			}))
+	}, [])
+
+	return (<>
 		<h2 className={styles.title}>My Cart</h2>
 		<div className={styles.orderedItems}>
-			<CartItemComponent changeTotal={totalChange}/>
-			<CartItemComponent changeTotal={totalChange}/>
-		
+			{list}
 		</div>
 		<div className={styles.total}>
 			<h2>Total:</h2>
