@@ -35,8 +35,16 @@
 	display: inline-block;
 	align-self: flex-end;
 }
-.item button:hover, .item button:active{
+.item button:hover{
 	background-color: blue;
 	color: white;
-	transition: 0.2s;
+	cursor:pointer;
+	transition: 0.5s;
+}
+.item button:active{
+	background-color: green;
+	font-size: 1.5rem;
+	cursor: grab;
+	transform: skew(7deg);
+	transition: 0s;
 }
