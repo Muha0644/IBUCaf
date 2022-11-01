@@ -1,20 +1,12 @@
 import styles from '/styles/menuItemComponent.module.css'
+import { addToCart } from '../../cart'
 
 interface menuItemProps {
-	id: Number,
+	id: number,
 	title?: String,
 	desc?: String,
 	price?: Number,
 	img?: String
-}
-
-function addToCart(id: Number){
-	let cart: Array<Number> = JSON.parse(sessionStorage.getItem("Cart")!)
-	if (cart == null) {
-		cart = []
-	}
-	cart.push(id)
-	sessionStorage.setItem("Cart", JSON.stringify(cart))
 }
 
 function MenuItemComponent(props: menuItemProps) {

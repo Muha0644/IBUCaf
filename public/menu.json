@@ -1,713 +1,713 @@
 {"menu":[
  {
-   "id": 19856,
+   "id": 1,
    "name": "Jaja na oko",
    "desc": "jaja, paradajz, krastavac, pecivo",
    "price": 3.5,
    "category": "Doručak"
  },
  {
-   "id": 42169,
+   "id": 2,
    "name": "Jaja na oko sa sudžukom",
    "desc": "jaja, sudžuka, paradajz, krastavac, pecivo.",
    "price": 4,
    "category": "Doručak"
  },
  {
-   "id": 56758,
+   "id": 3,
    "name": "Omlet sa sirom",
    "desc": "jaja, paradajz, krastavac, pecivo, sir edamer",
    "price": 4,
    "category": "Doručak"
  },
  {
-   "id": 87362,
+   "id": 4,
    "name": "Omlet sa suhim mesom",
    "desc": "jaja, paradajz, krastavac, pecivo, suho meso",
    "price": 4.5,
    "category": "Doručak"
  },
  {
-   "id": 91856,
+   "id": 5,
    "name": "Omlet sa povrcem ",
    "desc": "jaja, zelena salata, paradajz.krastavac, paprike pecivo",
    "price": 4,
    "category": "Doručak"
  },
  {
-   "id": 121478,
+   "id": 6,
    "name": "Uštipci veliki",
    "desc": "tjesto, pavlaka, sudžuka, suho meso, edamer, ",
    "price": 5,
    "category": "Doručak"
  },
  {
-   "id": 124086,
+   "id": 7,
    "name": "Uštipci veliki sa heljdom",
    "desc": "heljda tjesto, pavlaka, sudžuka, suho meso, edamer",
    "price": 6.5,
    "category": "Doručak"
  },
  {
-   "id": 128735,
+   "id": 8,
    "name": "Uštipci mali",
    "desc": "tjesto, pavlaka, edamer",
    "price": 3.5,
    "category": "Doručak"
  },
  {
-   "id": 129476,
+   "id": 9,
    "name": "Uštipci mali sa heljdom",
    "desc": "heljda tjesto, pavlaka, edamer",
    "price": 5,
    "category": "Doručak"
  },
  {
-   "id": 142765,
+   "id": 10,
    "name": "Pita",
    "desc": "meso, sir, krompir",
    "price": 2,
    "category": "Doručak"
  },
  {
-   "id": 142976,
+   "id": 11,
    "name": "Pecivo ",
    "desc": "sir, cokolada, džem",
    "price": 1.5,
    "category": "Doručak"
  },
  {
-   "id": 159836,
+   "id": 12,
    "name": "Studentski doručak",
    "desc": "jaja džem, krem, pavlaka, uštipci,",
    "price": 4.5,
    "category": "Doručak"
  },
  {
-   "id": 192468,
+   "id": 13,
    "name": "Pura",
    "desc": "palenta, maslac, pavlaka",
    "price": 4,
    "category": "Doručak"
  },
  {
-   "id": 192486,
+   "id": 14,
    "name": "Pohovani sir ",
    "desc": "edamer sir, brašno, prezla pomfrit, zelena salata, paradajz",
    "price": 5.5,
    "category": "Doručak"
  },
  {
-   "id": 192846,
+   "id": 15,
    "name": "Hladna plata",
    "desc": "suho meso, edamer, feta, sudžuka, uštipci, krastavci, paradajz",
    "price": 15,
    "category": "Doručak"
  },
  {
-   "id": 192864,
+   "id": 16,
    "name": "Polo sendvić ",
    "desc": "labla, piletina, zelena salata, pradajz, kukuruz, kečap, pomfrit",
    "price": 5.5,
    "category": "Sendvići"
  },
  {
-   "id": 197865,
+   "id": 17,
    "name": "Polo sendvić mali",
    "desc": "labla, piletina, zelena salata, pradajz, kukuruz, kečap, ulje",
    "price": 3.5,
    "category": "Sendvići"
  },
  {
-   "id": 219386,
+   "id": 18,
    "name": "Losos sendvić ",
    "desc": "labla, dimljeni losos, zelena salata, paradajz, majoneza",
    "price": 6,
    "category": "Sendvići"
  },
  {
-   "id": 230971,
+   "id": 19,
    "name": "Tuna sendvić",
    "desc": "labla, tuna, zelenta salata, paradajz, krastavac, kukuruz, masline",
    "price": 5,
    "category": "Sendvići"
  },
  {
-   "id": 238916,
+   "id": 20,
    "name": "Sendvić sa sudžukom ",
    "desc": "labla, kečap, zelena salata, paradajz, sir edamer, sudžuka",
    "price": 4.5,
    "category": "Sendvići"
  },
  {
-   "id": 239486,
+   "id": 21,
    "name": "Sendvić sa suhim mesom",
    "desc": "labla, kečap, zelena salata, paradajz, sir edamer, suho meso",
    "price": 5,
    "category": "Sendvići"
  },
  {
-   "id": 293856,
+   "id": 22,
    "name": "Story sendvić",
    "desc": "labla, piletina, jaja, brašno, prezla, kečap, paradajz, sir edamer",
    "price": 6,
    "category": "Sendvići"
  },
  {
-   "id": 312332,
+   "id": 23,
    "name": "Pureći sendvić",
    "desc": "labla, pureća sunka, sir edamer, salata",
    "price": 4.5,
    "category": "Sendvići"
  },
  {
-   "id": 320123,
+   "id": 24,
    "name": "Hamburger",
    "desc": "labla, juneća pljeskavica, pomfrit, kečap, kupus, paradajz",
    "price": 4,
    "category": "Sendvići"
  },
  {
-   "id": 329187,
+   "id": 25,
    "name": "Pasta curry ",
    "desc": "pasta, piletina, vrhnje, curry ",
    "price": 5,
    "category": "Pasta/Rižoto"
  },
  {
-   "id": 342987,
+   "id": 26,
    "name": "Pasta 4 vrste sira ",
    "desc": "pasta, vrhnje, sir edamer, sir gorgonzola, parmezan, pavlaka",
    "price": 5.5,
    "category": "Pasta/Rižoto"
  },
  {
-   "id": 382456,
+   "id": 27,
    "name": "Pasta Mexicana ",
    "desc": "pasta, meksicki mix, paradajz sos, puter, edamer, piletina, cili",
    "price": 5.5,
    "category": "Pasta/Rižoto"
  },
  {
-   "id": 412321,
+   "id": 28,
    "name": "Pasta sa povrcem",
    "desc": "pasta, paprike, tikvice, kukuruz, puter, edamer",
    "price": 5.5,
    "category": "Pasta/Rižoto"
  },
  {
-   "id": 512868,
+   "id": 29,
    "name": "Rižoto sa povrcem",
    "desc": "riža, paprike, kukuruz, puter, parmezan, soja sos, pecivo",
    "price": 5,
    "category": "Pasta/Rižoto"
  },
  {
-   "id": 523987,
+   "id": 30,
    "name": "Rižoto sa piletinom",
    "desc": "riža, piletina, parmezan, puter, soja sos, pecivo",
    "price": 6.5,
    "category": "Pasta/Rižoto"
  },
  {
-   "id": 538296,
+   "id": 31,
    "name": "Sezonska salata ",
    "desc": "zelena salata, svjezi krastavac, paradajz, kukuruz, paprike ",
    "price": 3,
    "category": "Salata"
  },
  {
-   "id": 543112,
+   "id": 32,
    "name": "Pileća salata",
    "desc": "zelena salata, paradajz, kukuruz.piletina, paprike, pecivo",
    "price": 4.5,
    "category": "Salata"
  },
  {
-   "id": 752646,
+   "id": 33,
    "name": "Tonno salata",
    "desc": "zelena salata, paradajz, krastavac, tunjevina, masline, crveni luk",
    "price": 5,
    "category": "Salata"
  },
  {
-   "id": 812745,
+   "id": 34,
    "name": "Vegeterijanska salata",
    "desc": "zelena salata, paradajz, krastavac, feta sir, grilovana paprika",
    "price": 4,
    "category": "Salata"
  },
  {
-   "id": 812754,
+   "id": 35,
    "name": "Bistra supa",
    "desc": "",
    "price": 3,
    "category": "Supe"
  },
  {
-   "id": 812754,
+   "id": 36,
    "name": "Pileća supa",
    "desc": "",
    "price": 4,
    "category": "Supe"
  },
  {
-   "id": 817234,
+   "id": 37,
    "name": "Paradajz supa",
    "desc": "",
    "price": 4,
    "category": "Supe"
  },
  {
-   "id": 832475,
+   "id": 38,
    "name": "Margarita ",
    "desc": "tjesto, paradajz sos, edamer, sunka, gljive",
    "price": 5.5,
    "category": "Pizza"
  },
  {
-   "id": 871245,
+   "id": 39,
    "name": "Capricciosa",
    "desc": "tjesto, paradajz sos, edamer, sunka gljive",
    "price": 7,
    "category": "Pizza"
  },
  {
-   "id": 871245,
+   "id": 40,
    "name": "Fungi",
    "desc": "tjesto, paradajz sos, sir edamer, gljive",
    "price": 7,
    "category": "Pizza"
  },
  {
-   "id": 871257,
+   "id": 41,
    "name": "Pizza s 4 sira",
    "desc": "tjesto, paradajz sos, edamer, parmezan, feta, mozzarella",
    "price": 7,
    "category": "Pizza"
  },
  {
-   "id": 912373,
+   "id": 42,
    "name": "Tonno   ",
    "desc": "tjesto, paradajz sos, edamer, tunjevina, massline luk",
    "price": 7,
    "category": "Pizza"
  },
  {
-   "id": 912486,
+   "id": 43,
    "name": "Vegeteriana ",
    "desc": "tjesto, paradajz sos, edamer, crvena paprika tikvica, gljive",
    "price": 7,
    "category": "Pizza"
  },
  {
-   "id": 912846,
+   "id": 44,
    "name": "Mexicana ",
    "desc": "tjesto, paradajz sos, edamer, crvena parpike tikvice gljive",
    "price": 7,
    "category": "Pizza"
  },
  {
-   "id": 912865,
+   "id": 45,
    "name": "Story        ",
    "desc": "tjesto, paradajz sos, edamer, suho meso, sunka, pavlaka, kečap",
    "price": 8.5,
    "category": "Pizza"
  },
  {
-   "id": 928146,
+   "id": 46,
    "name": "Piletina s 4 sira",
    "desc": "piletina, vrhnje, sir parmezan, pavlaka, pecivo",
    "price": 7,
    "category": "Jela sa piletinom/puretinom"
  },
  {
-   "id": 932764,
+   "id": 47,
    "name": "Becka piletina",
    "desc": "piletina, salata, paradajz, jaja, prezla, kečap, pecivo",
    "price": 7,
    "category": "Jela sa piletinom/puretinom"
  },
  {
-   "id": 938465,
+   "id": 48,
    "name": "Sweet chili piletina",
    "desc": "piletina, sweet chili sos, jaja, prezla, zelena salata, paradajz",
    "price": 7,
    "category": "Jela sa piletinom/puretinom"
  },
  {
-   "id": 952161,
+   "id": 49,
    "name": "Parmezan piletina ",
    "desc": "piletina, jaja, zelena salata, prezla, vrhnje, edamer, paradajz,",
    "price": 7,
    "category": "Jela sa piletinom/puretinom"
  },
  {
-   "id": 954328,
+   "id": 50,
    "name": "Piletina sa gljivama ",
    "desc": "piletina, gljive, jaja, paradajz, zelena salata, pecivo",
    "price": 7,
    "category": "Jela sa piletinom/puretinom"
  },
  {
-   "id": 981246,
+   "id": 51,
    "name": "Curry piletina ",
    "desc": "piletina, curry, vrhnje, zelena salata, pecivo, paradajz",
    "price": 7,
    "category": "Jela sa piletinom/puretinom"
  },
  {
-   "id": 1024867,
+   "id": 52,
    "name": "Mexico piletina",
    "desc": "piletina, meksicki mix, paradajz sos, pecivo, paradajz",
    "price": 7,
    "category": "Jela sa piletinom/puretinom"
  },
  {
-   "id": 1123894,
+   "id": 53,
    "name": "Pileci rep",
    "desc": "piletina, pecivo, kukuruz, tikvice, zelena salata, krastavac",
    "price": 6,
    "category": "Jela sa piletinom/puretinom"
  },
  {
-   "id": 1240986,
+   "id": 54,
    "name": "Andalusia wrap",
    "desc": "piletina, jaja, zelena salata, chili sos, pecivo, kukruz",
    "price": 6.5,
    "category": "Jela sa piletinom/puretinom"
  },
  {
-   "id": 1246785,
+   "id": 55,
    "name": "Pileci wok",
    "desc": "piletina, parpike, sweet chili, oyser sos, person, pecivo",
    "price": 7,
    "category": "Jela sa piletinom/puretinom"
  },
  {
-   "id": 1248756,
+   "id": 56,
    "name": "Pileća maslanica ",
    "desc": "piletina, labla, edamer, gljive, vrhnje ",
    "price": 6.5,
    "category": "Jela sa piletinom/puretinom"
  },
  {
-   "id": 1248784,
+   "id": 57,
    "name": "Puretina natur",
    "desc": "puretina, ljuta majoneza, zelena salata, paradajz, pecivo",
    "price": 8,
    "category": "Jela sa piletinom/puretinom"
  },
  {
-   "id": 1249086,
+   "id": 58,
    "name": "Pohovana puretina",
    "desc": "puretina, gljive, zelena salata, paradajz, pecivo, jaja, prezla",
    "price": 8.5,
    "category": "Jela sa piletinom/puretinom"
  },
  {
-   "id": 1249764,
+   "id": 59,
    "name": "Riza",
    "desc": "",
    "price": 2.5,
    "category": "Prilozi/Dodaci"
  },
  {
-   "id": 1293486,
+   "id": 60,
    "name": "Basmati riža",
    "desc": "",
    "price": 3,
    "category": "Prilozi/Dodaci"
  },
  {
-   "id": 1293674,
+   "id": 61,
    "name": "Pomfrit",
    "desc": "",
    "price": 2.5,
    "category": "Prilozi/Dodaci"
  },
  {
-   "id": 1294786,
+   "id": 62,
    "name": "Pekaski pomfrit",
    "desc": "",
    "price": 2.5,
    "category": "Prilozi/Dodaci"
  },
  {
-   "id": 1294865,
+   "id": 63,
    "name": "Grilovano povrce",
    "desc": "",
    "price": 4.5,
    "category": "Prilozi/Dodaci"
  },
  {
-   "id": 1359276,
+   "id": 64,
    "name": "Nudle",
    "desc": "",
    "price": 2,
    "category": "Prilozi/Dodaci"
  },
  {
-   "id": 1439876,
+   "id": 65,
    "name": "Domaće pecivo",
    "desc": "",
    "price": 1,
    "category": "Prilozi/Dodaci"
  },
  {
-   "id": 1827456,
+   "id": 66,
    "name": "Domaće pecivo heljda ",
    "desc": "",
    "price": 2,
    "category": "Prilozi/Dodaci"
  },
  {
-   "id": 1924576,
+   "id": 67,
    "name": "Kečap",
    "desc": "",
    "price": 0.5,
    "category": "Prilozi/Dodaci"
  },
  {
-   "id": 1928461,
+   "id": 68,
    "name": "Majoneza",
    "desc": "",
    "price": 0.5,
    "category": "Prilozi/Dodaci"
  },
  {
-   "id": 1951234,
+   "id": 69,
    "name": "Pavlaka",
    "desc": "",
    "price": 0.5,
    "category": "Prilozi/Dodaci"
  },
  {
-   "id": 2138765,
+   "id": 70,
    "name": "Schweppes",
    "desc": "",
    "price": 1.5,
    "category": "Bezalkolna pića"
  },
  {
-   "id": 2149614,
+   "id": 71,
    "name": "Coca cola",
    "desc": "",
    "price": 1.5,
    "category": "Bezalkolna pića"
  },
  {
-   "id": 2149786,
+   "id": 72,
    "name": "Coca cola zero",
    "desc": "",
    "price": 1.5,
    "category": "Bezalkolna pića"
  },
  {
-   "id": 2193476,
+   "id": 73,
    "name": "Fanta",
    "desc": "",
    "price": 1.5,
    "category": "Bezalkolna pića"
  },
  {
-   "id": 2194869,
+   "id": 74,
    "name": "Sprite ",
    "desc": "",
    "price": 1.5,
    "category": "Bezalkolna pića"
  },
  {
-   "id": 3213123,
+   "id": 75,
    "name": "Ledeni čaj",
    "desc": "",
    "price": 1.5,
    "category": "Bezalkolna pića"
  },
  {
-   "id": 3890217,
+   "id": 76,
    "name": "Prirodni sok",
    "desc": "",
    "price": 3,
    "category": "Bezalkolna pica"
  },
  {
-   "id": 5239786,
+   "id": 77,
    "name": "Negazirana voda",
    "desc": "",
    "price": 1,
    "category": "Bezalkolna pića"
  },
  {
-   "id": 5961237,
+   "id": 78,
    "name": "Gazirana voda",
    "desc": "",
    "price": 1,
    "category": "Bezalkolna pića"
  },
  {
-   "id": 6431097,
+   "id": 79,
    "name": "Powerade",
    "desc": "",
    "price": 2,
    "category": "Bezalkolna pića"
  },
  {
-   "id": 7123657,
+   "id": 80,
    "name": "Energetska napitak",
    "desc": "",
    "price": 1.5,
    "category": "Bezalkoholna pića"
  },
  {
-   "id": 8127465,
+   "id": 81,
    "name": "Naradndža ",
    "desc": "",
    "price": 3.5,
    "category": "Cijeđeni sokovi"
  },
  {
-   "id": 8172354,
+   "id": 82,
    "name": "Jabuka",
    "desc": "",
    "price": 3,
    "category": "Cijeđeni sokovi"
  },
  {
-   "id": 8712456,
+   "id": 83,
    "name": "Citrus Mix",
    "desc": "",
    "price": 4,
    "category": "Cijeđeni sokovi"
  },
  {
-   "id": 8743125,
+   "id": 84,
    "name": "Tropic Mix",
    "desc": "",
    "price": 4.5,
    "category": "Cijeđeni sokovi"
  },
  {
-   "id": 8912745,
+   "id": 85,
    "name": "Sezonski mix",
    "desc": "",
    "price": 3.5,
    "category": "Cijeđeni sokovi"
  },
  {
-   "id": 8956432,
+   "id": 86,
    "name": "Banana Mix",
    "desc": "",
    "price": 4,
    "category": "Cijeđeni sokovi"
  },
  {
-   "id": 9012469,
+   "id": 87,
    "name": "Dumbir dodatak",
    "desc": "",
    "price": 0.5,
    "category": "Cijeđeni sokovi"
  },
  {
-   "id": 9124876,
+   "id": 88,
    "name": "Palačinke sa nutelom ",
    "desc": "brašno, jaj, secer, vanilin secer, mljeko, nutela",
    "price": 3.5,
    "category": "Deserti"
  },
  {
-   "id": 9127465,
+   "id": 89,
    "name": "Palačinke sa džemom",
    "desc": "brašno, jaj, secer, vanilin secer, mljeko, džem",
    "price": 3,
    "category": "Deserti"
  },
  {
-   "id": 9137856,
+   "id": 90,
    "name": "Dodatak",
    "desc": "orasi, mljeveni keks ",
    "price": 0.5,
    "category": "Deserti"
  },
  {
-   "id": 9328546,
+   "id": 91,
    "name": "Kolač",
    "desc": "",
    "price": 2,
    "category": "Deserti"
  },
  {
-   "id": 9763248,
+   "id": 92,
    "name": "Voćni jogurt",
    "desc": "",
    "price": 2,
    "category": "Deserti"
  },
  {
-   "id": 9785456,
+   "id": 93,
    "name": "Voćna salata",
    "desc": "",
    "price": 2.5,
    "category": "Deserti"
  },
  {
-   "id": 12486463,
+   "id": 94,
    "name": "Kuglice sa keskom",
    "desc": "mljeveni kesks, banana, kokos, secer",
    "price": 0.5,
    "category": "Deserti"
  },
  {
-   "id": 12496124,
+   "id": 95,
    "name": "Knedle",
    "desc": "cokoladne, voćne",
    "price": 3.5,
    "category": "Deserti"
  },
  {
-   "id": 12845712,
+   "id": 96,
    "name": "Kafa espresso",
    "desc": "",
    "price": 1.5,
    "category": "Topli napitci"
  },
  {
-   "id": 12874654,
+   "id": 97,
    "name": "Kafa espresso sa mljekom",
    "desc": "",
    "price": 2,
    "category": "Topli napitci"
  },
  {
-   "id": 12879468,
+   "id": 98,
    "name": "Cappuccino",
    "desc": "",
    "price": 2.5,
    "category": "Topli napitci"
  },
  {
-   "id": 12947953,
+   "id": 99,
    "name": "Nes kafa",
    "desc": "classic, vanilija, cokolada",
    "price": 2,
    "category": "Topli napitci"
  },
  {
-   "id": 18623178,
+   "id": 100,
    "name": "Topla cokolada",
    "desc": "",
    "price": 2.5,
    "category": "Topli napitci"
  },
  {
-   "id": 42823745,
+   "id": 101,
    "name": "Čaj ",
    "desc": "zelena, crni, menta, voćni, brusnica, majcina dusica",
    "price": 1.5,
    "category": "Topli napitci"
  },
  {
-   "id": 81927465,
+   "id": 102,
    "name": "Turski čaj",
    "desc": "",
    "price": 1,

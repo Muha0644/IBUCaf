@@ -50,6 +50,10 @@ footer a {
   align-items: center;
 }
 
+.hidden { 
+  display:none
+}
+
 .container {
   padding: 0 2rem;
 }
